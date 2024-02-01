@@ -1,1 +1,1 @@
-# main.py
+print('I love soccer')
